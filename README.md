@@ -3,7 +3,7 @@
 I am a Software Engineer and Full Stack Web Developer who loves new challenges and I am always willing to learn new things.
 
 <p align='left'>
-    📍Living on Toronto, Canada;<br />
+    📍Living on Toronto, Canada<br />
     👨‍🎓 Bachelor of Computer Science<br />
 </p>
 
@@ -25,13 +25,6 @@ I am a Software Engineer and Full Stack Web Developer who loves new challenges a
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</p>
-
-
-## :octocat: Github
-<p align="center">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=lucassklp&count_private=true&show_icons=true&theme=onedark" alt="My GitHub stats"/>
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassklp&langs_count=10&layout=compact&theme=onedark" alt="Most Used Language"/>
 </p>
 
 
