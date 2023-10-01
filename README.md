@@ -37,6 +37,5 @@ I am a Software Engineer and Full Stack Web Developer who loves new challenges a
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/Lucas%20Simas-On%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucassimas/)
-[![StackOverflow Badge](https://img.shields.io/badge/Lucas%20Simas-On%20StackOverflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/2886557/lucas-simas)
-[![My Website Badge](https://img.shields.io/badge/lucassimas.com-see%20my%20website-blue?style=for-the-badge&logo=minutemailer)](https://www.lucassimas.com)
+<p>Skype:live:.cid.4d5efdee9cd5ee04</p>
+<p>Telegram: @FullStackDeveloper1220</p>
