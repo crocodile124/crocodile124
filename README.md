@@ -37,5 +37,5 @@ I am a Software Engineer and Full Stack Web Developer who loves new challenges a
 
 You can find and get touch with me on these accounts!
 
-<p>Skype:live:.cid.4d5efdee9cd5ee04</p>
-<p>Telegram: @FullStackDeveloper1220</p>
+<p><b>Skype:</b> live:.cid.4d5efdee9cd5ee04</p>
+<p><b>Telegram:</b> @FullStackDeveloper1220</p>
