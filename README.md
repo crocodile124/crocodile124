@@ -2,11 +2,6 @@
 
 I am a Software Engineer and Full Stack Web Developer who loves new challenges and I am always willing to learn new things.
 
-<p align='left'>
-    📍Living on Toronto, Canada<br />
-    👨‍🎓 Bachelor of Computer Science<br />
-</p>
-
 ## 👨‍💻Technologies
 <p>
     <img alt="C#" src="https://img.shields.io/badge/CSharp-563D7C?style=for-the-badge&logo=c#&logoColor=white"/>
