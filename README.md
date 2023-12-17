@@ -32,5 +32,4 @@ I am a Software Engineer and Full Stack Web Developer who loves new challenges a
 
 You can find and get touch with me on these accounts!
 
-<p><b>Skype:</b> live:.cid.7d170020290ee1d3</p>
-<p><b>Telegram:</b> @FullStackDeveloper1220</p>
+<p><b>Discord:</b> alocparker1220</p>
